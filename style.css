@@ -49,7 +49,8 @@ input:focus{
 
 
 .btn {
-   background: #00738e;
+   background: linear-gradient(to bottom, #3ac6bd, #00748ea4);
+   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
    color: white;
    border: none;
    cursor: pointer;
