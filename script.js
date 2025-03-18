@@ -42,3 +42,5 @@ async function fetchWeather(url) {
         alert("Error fetching weather data. Please try again.");
     }
 }
+
+ 
