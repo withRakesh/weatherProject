@@ -13,9 +13,6 @@ body {
    box-sizing: border-box;
 }
 
-.header{
-   color: red;
-}
 
 .weather-container {
    background: rgba(255, 255, 255, 0.2);
